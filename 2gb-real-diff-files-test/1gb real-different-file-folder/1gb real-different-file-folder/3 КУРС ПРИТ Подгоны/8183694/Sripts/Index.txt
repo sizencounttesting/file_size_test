@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+<html lang="ru">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <head>
+  <meta charset="windows-1251" />  
+
+<title>ТСК "Санрайз"
+</title>
+
+    <link 
+
+rel="stylesheet" href="st1.css">
+  </head>
+  
+<body>
+<header class="header">
+<h1 class="menu"><a class="Ch" href="#Ch"> ТСК "Санрайз" </a> 
+<a href="Index.html" class="bk"> Главная </a> 
+<a href="About.html" class="bk"> Услуги</a> 
+<a href="Contacts.html" class="bk"> Контакты</a> 
+<a href="Registration.html" class="bk"> Регистрация </a>
+<a href="Login.html" class="bk"> Авторизация </a>
+</h1>
+<h2>
+<img src="4.jpg"width="1500" height="400" align="top" > 
+ </h2>
+<h2>
+<p class="text"> НОВОСТИ </p>
+</h2>
+ <p>
+<b>С 19-21 октября на базе танцевально-спортивного клуба Санрайз состоялись традиционные осенние сборы.
+
+Главными Организаторами мероприятия были заслуженные мастера спорта и трехкратные чемпионы мира.
+
+На протяжении трех дней команда профессиональных педагогов делилась со спортсменами своим опытом и мастерством.Такого рода подготовка является наиболее эффективной и помогает извлечь из занятий максимум пользы для танцоров.</b>
+
+
+  
+
+</header>
+  </body>
+   </html>
+ 
